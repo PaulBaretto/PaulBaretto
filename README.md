@@ -60,6 +60,6 @@
 
 ###
 
-<img align="right" height="400" src="https://media.giphy.com/media/DSxKEQoQix9hC/giphy.gif"  />
+<img align="right" height="500" width= "100%" src="https://media.giphy.com/media/DSxKEQoQix9hC/giphy.gif"  />
 
 ###
