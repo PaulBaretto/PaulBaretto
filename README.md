@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! I'm Paul Barretto, On the journey of Frontend Development</h2>
+<h2 align="center">Hi 👋! I'm Paul Barretto, On the journey of Frontend Development</h2>
 
 ###
 
