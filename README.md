@@ -48,18 +48,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/PaulBaretto/count.svg?"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/PaulBaretto/count.svg?"  />
-</div>
-
-###
-
 <img align="right" height="500" width= "100%" src="https://media.giphy.com/media/DSxKEQoQix9hC/giphy.gif"  />
 
 ###
