@@ -20,7 +20,7 @@
 </div>
 
 ###
-
+  <div align="center">
   <a href="https://www.instagram.com/paulbarretto.dev" target="_blank">
     <img class="logoimg" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
   </a>
@@ -40,7 +40,8 @@
 <br clear="both">
 
 ###
-
-<img align="center"  height="300"  src="https://media.giphy.com/media/DSxKEQoQix9hC/giphy.gif"  />
+<div align="center" border-radius="10">
+<img align="center"  height="300" border-radius="10" src="https://media.giphy.com/media/DSxKEQoQix9hC/giphy.gif"  />
+</div>
 
 ###
