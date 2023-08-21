@@ -9,7 +9,7 @@
 
 <div align = "center">
   <p>
-     "Make the World a better place with your code"
+     "Make the World a better place with your Code"
   </p>
 </div>
 
