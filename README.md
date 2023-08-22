@@ -1,9 +1,10 @@
 
-<h1 align="center">Trying to build cool sh*t 👨‍💻</h1>
+<h1 align="center">Hi 👋! I'm Paul Barretto, On the journey of Frontend Development</h1>
+
 
 ###
 
-<h2 align="center">Hi 👋! I'm Paul Barretto, On the journey of Frontend Development</h2>
+<h1 align="center">Trying to build cool sh*t 👨‍💻</h1>
 
 ###
 
