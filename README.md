@@ -10,7 +10,7 @@
 
 <div align = "center">
   <p>
-     "Make the World a better place with your Code"
+     "Will Make the World a better place with my Code 👨‍💻"
   </p>
 </div>
 
