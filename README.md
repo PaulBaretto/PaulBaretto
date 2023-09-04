@@ -54,7 +54,3 @@
 </div>
 
 ###
-<div align="center">
-  <img class="logoimg" src="https://icons8.com/icon/P7UIlhbpWzZm/gmail)https://icons8.com/icon/P7UIlhbpWzZm/gmail" height="30" alt="html5 logo"  />
-
-
