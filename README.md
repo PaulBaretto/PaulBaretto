@@ -48,6 +48,10 @@
 
 <br clear="both">
 
+<div>
+[<img scr="images/lets-talk-img.png">](https://paulbaretto.github.io/landing-form/)
+</div>
+
 ###
 <div align="center" border-radius="10">
 <img align="center"  height="300" border-radius="10" src="https://media.giphy.com/media/DSxKEQoQix9hC/giphy.gif"  />
