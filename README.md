@@ -46,8 +46,6 @@
 
 ###
 
-<br clear="both">
-
 ###
 [<img alt="alt_text" width="100px" align="center" src="images/lets-talk-img.png"/>](https://paulbaretto.github.io/landing-form/) 
 
