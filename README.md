@@ -48,9 +48,9 @@
 
 <br clear="both">
 
-<div>
-[<img scr="images/lets-talk-img.png">](https://paulbaretto.github.io/landing-form/)
-</div>
+###
+[<img alt="alt_text" width="100px" align="center" src="images/lets-talk-img.png"/>](https://paulbaretto.github.io/landing-form/) 
+
 
 ###
 <div align="center" border-radius="10">
