@@ -47,7 +47,7 @@
 ###
 
 ###
-[<img alt="alt_text" width="100px" align="center" src="images/lets-talk-img.png"/>](https://lets-talk-landing-form.netlify.app/) 
+[<img alt="Let's Talk" width="100px" align="center" src="images/lets-talk-img.png"/>](https://lets-talk-landing-form.netlify.app/) 
 
 
 ###
