@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋! I'm Paul Barretto, On the journey of Frontend Development</h1>
+<h1 align="center">Hello 👋! I'm Paul Barretto, On the journey of Frontend Development</h1>
 
 
 ###
