@@ -1,4 +1,4 @@
-<img align="center" width="100%"  height="500" src="https://i.imgur.com/5JZlZYT.png" />
+<!-- <img align="center" width="100%"  height="500" src="https://i.imgur.com/5JZlZYT.png" /> -->
 
 <h1 align="center">Hello 👋! I'm Paul Barretto, On the journey of Frontend Development</h1>
 
