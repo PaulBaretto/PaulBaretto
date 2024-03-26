@@ -50,8 +50,8 @@
 ###
 
 ###
-[<img alt="About Me" width="100px" align="center" src="https://i.imgur.com/PHxIgXs.png"/>](https://paul-barretto.netlify.app/) 
 [<img alt="Let's Talk" width="100px" align="center" src="images/lets-talk-img.png"/>](https://lets-talk-landing-form.netlify.app/) 
+[<img alt="About Me" width="100px" align="center" src="https://i.imgur.com/SX2iIIK.png"/>](https://paul-barretto.netlify.app/) 
 
 
 
