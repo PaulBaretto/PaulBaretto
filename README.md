@@ -11,7 +11,12 @@
 
 <div align = "center">
   <p>
-     <"Development is an opportunity to continue telling the story👨‍💻">
+<pre>
+  <code class="language-html">
+    &lt;code&gt; "Development is an opportunity to continue telling the story 👨‍💻" &lt;/code&gt;
+  </code>
+</pre>
+
   </p>
 </div>
 
