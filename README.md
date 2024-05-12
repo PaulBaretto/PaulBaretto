@@ -11,7 +11,7 @@
 
 <div align = "center">
   <p>
-     <"lets Make the World a better place with Code 👨‍💻">
+     <"Development is an opportunity to continue telling the story👨‍💻">
   </p>
 </div>
 
