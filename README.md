@@ -31,6 +31,10 @@
   <img width="15" />
   <img class="logoimg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="15" />
+  <img class="logoimg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo"  />
+  <img width="15" />
+  <img class="logoimg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo"  />
+  <img width="15" />
   <img class="logoimg" src="https://i.imgur.com/68XkLvS.png" height="30" alt="wordpress logo"  />
   <img width="15" />
   <img class="logoimg" src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
