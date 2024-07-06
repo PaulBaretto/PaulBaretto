@@ -13,7 +13,7 @@
   <p>
 <pre>
   <code class="language-html">
-    &lt;code&gt; "Anything that can be imagined can be programmed 👨‍💻 - Alan Kay" &lt;/code&gt;
+     "Anything that can be imagined can be programmed 👨‍💻 - Alan Kay"
   </code>
 </pre>
 
