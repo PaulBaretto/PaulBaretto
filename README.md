@@ -12,7 +12,7 @@
 <div align = "center">
   <p>
 <pre>
-  <code class="language-html">
+  <code class="language-html"  align = "center">
      "Anything that can be imagined can be programmed 👨‍💻 - Alan Kay"
   </code>
 </pre>
