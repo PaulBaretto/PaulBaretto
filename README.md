@@ -42,6 +42,10 @@
 
 ###
   <div align="center">
+  <a href="https://paul-barretto.netlify.app/" target="_blank">
+    <img class="logoimg" src="https://i.imgur.com/gU3gvCV.png" height="35" alt="codepen logo"  />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/paulbarretto.dev" target="_blank">
     <img class="logoimg" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
   </a>
@@ -54,14 +58,20 @@
   <a href="https://codepen.io/PaulBaretto" target="_blank">
     <img class="logoimg" src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=flat" height="35" alt="codepen logo"  />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://lets-talk-landing-form.netlify.app/" target="_blank">
+    <img class="logoimg" src="https://i.imgur.com/aszlQCa.png" height="35" alt="codepen logo"  />
+  </a>
+
 </div>
 
 ###
 
 ###
+<!--
 [<img  alt="Let's Talk" width="100px" align="center" src="https://i.imgur.com/aszlQCa.png"/>](https://lets-talk-landing-form.netlify.app/)
 [<img  alt="About Me" width="100px" align="center" src="https://i.imgur.com/gU3gvCV.png"/>](https://paul-barretto.netlify.app/) 
-
+-->
 
 ###
 <div align="center" border-radius="10">
