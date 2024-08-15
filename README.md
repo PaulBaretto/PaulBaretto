@@ -5,7 +5,7 @@
 
 ###
 
-<h1 align="center">Trying to build cool sh*t 👨‍💻</h1>
+<h1 align="center"> Building cool sh*t 👨‍💻</h1>
 
 ###
 
