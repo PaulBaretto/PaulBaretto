@@ -60,7 +60,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://lets-talk-landing-form.netlify.app/" target="_blank">
-    <img class="logoimg" src="https://i.imgur.com/aszlQCa.png" height="35" alt="codepen logo"  />
+    <img  class="logoimg" src="https://i.imgur.com/aszlQCa.png" height="35" alt="codepen logo"  />
   </a>
 
 </div>
