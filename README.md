@@ -85,7 +85,6 @@
 ["On the Internet, nobody knows you're a dog."](https://gvanrossum.github.io/images/internetdog.gif)
 <img align="center"  src="https://www.geonames.org/img/smallant.gif"  />
 📁
-##
 ["What man is a man who does not make the world better"](https://www.imdb.com/title/tt0320661/)
 ##
 <img align="center" width="100%" src="https://s.w.org/style/images/code-is-poetry-for-dark-bg.svg">
