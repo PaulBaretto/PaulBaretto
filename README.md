@@ -2,12 +2,12 @@
 
 <h1 align="center">Hello 👋! I'm Paul Barretto, On the journey of Frontend Development</h1>
 
-
 ###
 
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=100&color=FFFFFF&center=true&width=600&lines=Building+cool+stuff+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
+<!--
 <h1 align="center"> Building cool stuff 👨‍💻</h1>
-
-###
+-->
 
 <div align = "center">
   <p>
@@ -88,3 +88,7 @@
 ["What man is a man who does not make the world better"](https://www.imdb.com/title/tt0320661/)
 ##
 <img align="center" width="100%" src="https://s.w.org/style/images/code-is-poetry-for-dark-bg.svg">
+
+##
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD950&width=435&lines=Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit." alt="Typing SVG" /></a>
