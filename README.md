@@ -86,9 +86,10 @@
 <img align="center"  src="https://www.geonames.org/img/smallant.gif"  />
 📁
 ["What man is a man who does not make the world better"](https://www.imdb.com/title/tt0320661/)
+
+
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD950&width=435&lines=Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit." alt="Typing SVG" /></a>
+
 ##
 <img align="center" width="100%" src="https://s.w.org/style/images/code-is-poetry-for-dark-bg.svg">
 
-##
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD950&width=435&lines=Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit." alt="Typing SVG" /></a>
