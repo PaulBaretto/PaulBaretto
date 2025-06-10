@@ -1,6 +1,6 @@
 <!-- <img align="center" width="100%"  height="500" src="https://i.imgur.com/5JZlZYT.png" /> -->
 
-<h1 align="center">Hey 👋! I'm Paul Barretto,</h1>
+<h1 align="center">Hey 👋! I'm Paul,</h1>
 
 ###
 
