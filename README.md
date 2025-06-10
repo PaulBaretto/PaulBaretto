@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=100&color=FFFFFF&center=true&width=600&lines=I+Build+cool+stuff+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=100&color=FFFFFF&center=true&width=600&lines=I+Design+&+Build+cool+stuff+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
 <!--
 <h1 align="center"> Building cool stuff 👨‍💻</h1>
 -->
