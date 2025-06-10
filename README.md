@@ -1,10 +1,10 @@
 <!-- <img align="center" width="100%"  height="500" src="https://i.imgur.com/5JZlZYT.png" /> -->
 
-<h1 align="center">Hey 👋! I'm Paul Barretto</h1>
+<h1 align="center">Hey 👋! I'm Paul Barretto,</h1>
 
 ###
 
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=100&color=FFFFFF&center=true&width=600&lines=I+Design+&+Build+cool+stuff+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=100&color=FFFFFF&center=true&width=700&lines=Designing+%26+Building+cool+stuff+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
 <!--
 <h1 align="center"> Building cool stuff 👨‍💻</h1>
 -->
